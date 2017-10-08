@@ -1,2 +1,2 @@
 # hello-world
-just the first repository
+Hi!This is my first repository!I'm fancy C# and python!
